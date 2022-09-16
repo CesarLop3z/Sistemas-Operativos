@@ -1,7 +1,7 @@
 const yesBtn=document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Cada vez que miro tu sonrisa, siento que me vuelvo a enamorar')
+    alert('Sabia que no podias negarlo :)')
 })
 
 const noBtn = document.querySelector('#noBtn');
